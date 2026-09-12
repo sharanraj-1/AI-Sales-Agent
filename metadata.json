@@ -1,0 +1,8 @@
+{
+  "name": "EvidenceSales AI",
+  "description": "Generate accurate, evidence-backed B2B sales intelligence and personalized outreach campaigns based on verified public data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
